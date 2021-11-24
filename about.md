@@ -6,8 +6,8 @@ permalink: /about/
 
 I'm Leo Anthony Catane
 
-I'm a Software Developer from the Philippines 🇵🇭
+I'm a Ruby/Rails Developer from the Philippines 🇵🇭
 
-I have been writing code for 5 years and is now learning to write a blog
+I have been writing code since 2011 and is now learning to write a blog
 
 _links: [email](mailto:leoanthony.catane@protonmail.com), [github](https://github.com/leoanthonyc)_
